@@ -1,0 +1,14 @@
+{
+  "name": "小小启蒙屋",
+  "short_name": "启蒙屋",
+  "description": "给孩子的启蒙小屋：唐诗宋词、英语启蒙、识字乐园、儿歌视频。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF8EE",
+  "theme_color": "#FFB866",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
